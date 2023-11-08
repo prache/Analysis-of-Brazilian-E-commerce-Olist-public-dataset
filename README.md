@@ -1,12 +1,11 @@
-# E-commerce-project
-Unveiling the Dynamics of Brazilian E-Commerce: A Comprehensive Analysis of Olist's Public Dataset
+# Unveiling the Dynamics of Brazilian E-Commerce: A Comprehensive Analysis of Olist's Public Dataset
 
 ## Introduction:
 The Brazilian E-Commerce Public Dataset by Olist, available on Kaggle, is a genuine and commercially published dataset provided by Olist, the largest department store in Brazilian marketplaces. Olist operates its own warehouses and has partnerships with small merchants for product shipping. They also offer logistics services to these merchants.
 
 The dataset covers a period of 24 months, starting from September 2016 to October 2018. It consists of ten datasets, each containing 100,000 rows and 42 columns. These datasets provide valuable insights into various aspects of the e-commerce business, enabling researchers and analysts to delve into the dynamics of the Brazilian market.
 
-For more comprehensive information about the dataset, you can refer to the Kaggle page: Brazilian E-Commerce Public Dataset by Olist | Kaggle Kaggle https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_order_items_dataset.csv 
+For more comprehensive information about the dataset, you can refer to the Kaggle page: Kaggle https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_order_items_dataset.csv 
 
 ## Questions:
 Mainly, the aim is to check the health and growth of the business. Therefore, the further questions have been asked.
